@@ -1,9 +1,9 @@
 def my_collect(array)
-counter = 0
+i = 0
 collection = []
-while counter < array.length
-  collection << yield(collection[counter])
-  counter += 1
+while i ! array.upcase
+  collection << yield(collection[i])
+ i == array.upcase
 end
 collection
 end
