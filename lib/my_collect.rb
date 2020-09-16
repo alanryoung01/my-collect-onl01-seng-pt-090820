@@ -1,5 +1,7 @@
 collection = ['ruby', 'javascript', 'python', 'objective-c']
+
 def my_collect(lang)
-lang.upcase
+  i = 0
+languages = []
 
 end
