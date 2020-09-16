@@ -7,5 +7,3 @@ while i < lang.length
   language.upcase yield(lang[i])
   i += 1
 end
-languages
-end
